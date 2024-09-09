@@ -23,7 +23,7 @@ class Launcher:
                 while True:
                     rocket.launch(connection)        
                     # Rocket Charging
-                    sleep(0.09)
+                    sleep(0.009)
             except:
                 message = "Launcher Shutting Down, Bye!"
                 try:
