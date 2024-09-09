@@ -1,4 +1,4 @@
-![DDoS Rocket]([https://media.geeksforgeeks.org/wp-content/uploads/20230406112559/TCP-3.png](https://cyberhoot.com/wp-content/uploads/2022/02/DdoS-1024x768.jpeg))
+![DDoS Rocket](https://cyberhoot.com/wp-content/uploads/2022/02/DdoS-1024x768.jpeg)
 
 # DDoS Rocket
 What about a Rocket Launcher which attack machines using Socket?
