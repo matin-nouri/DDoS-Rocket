@@ -31,7 +31,7 @@ The term socket is also used for the software endpoint of node-internal inter-pr
 
 
 
-# Refrences
+# Refeerences
 1. Wikipedia, DDoS https://en.wikipedia.org/wiki/Denial-of-service_attack
 2. Wikipedia, Network Socket https://en.wikipedia.org/wiki/Network_socket
 3. GFG Solution
