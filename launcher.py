@@ -8,7 +8,7 @@ class Launcher:
     
     def launch(self):
         # Launcher Setting
-        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as connection:
+        with socket.socket(socket.AF_INET, socket.SOCK_DGRAM) as connection:
             try:
                 message = "Set Launcher"
                 try:
