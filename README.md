@@ -1,2 +1,3 @@
 # DDoS Rocket
-What about a Rocket Launcher which attack local networks using Socket?
+What about a Rocket Launcher which attack machines using Socket?
+This Program uses
